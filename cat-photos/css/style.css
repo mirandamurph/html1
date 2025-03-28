@@ -1,0 +1,56 @@
+
+
+h1 {
+  font-size: 45px;
+  color: Orange;
+}
+
+h2 {
+  font-size: 30px;
+  color: Orange;
+}
+
+p {
+  font-size: 18px;
+  color: Orange;
+}
+
+
+body {
+  margin: 0;
+  background-color: #231b35;
+  color: #f5f6f7;
+  font-family: didoni;
+  text-align: center;
+}
+
+ul, ol {
+  display: inline-block;
+  text-align: left;
+}
+
+
+
+form {
+  background-color: #170a28;
+  min-width: 100px;
+  max-width: 350px;
+  margin: 0 auto;
+  box-shadow: 0 0 10px orange ;
+}
+  
+label {
+  display: block;
+  margin: 0.3rem 0;
+}
+
+
+fieldset {
+  border: none;
+  border-top: .5px solid orange;
+}
+
+
+#mycat {
+  width: 300px;
+}
